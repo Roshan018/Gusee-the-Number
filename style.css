@@ -84,7 +84,7 @@ input {
     left: 50%;
     transform: translate(-50%, -50%);
     padding: 20px;
-    background: #fff;
+    background: black;
     text-align: left;
     max-width: 400px;
 }
